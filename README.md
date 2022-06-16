@@ -6,7 +6,7 @@
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td>[test](https://mavisw.github.io/Petfinder-Database-Design/)</td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
